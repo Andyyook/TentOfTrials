@@ -1,9 +1,7 @@
 {
   "commit": "6df45c81",
-  "decrypt_password": "decrypt_1781896577_6df45c81",
-  "diagnostic_logd": [
-    "diagnostic/build-6df45c81.logd"
-  ],
+  "password": "dec_1781896834_6df45c81",
+  "diagnostic_logd": "diagnostic/build-6df45c81.logd",
   "source": "build.py",
-  "timestamp": "2026-06-19T19:16:17Z"
+  "timestamp": "2026-06-19T19:20:34Z"
 }
